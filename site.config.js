@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://m1nddong.vercel.app/",
+  link: "https://m1nddong-log.vercel.app/",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
