@@ -3,12 +3,12 @@ const CONFIG = {
   profile: {
     name: "m1nddoong",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Backend Dev",
-    bio: "취준생",
+    role: "Java Backend Dev",
+    bio: "취준생(26)",
     email: "alstjsdlr990321@gmail.com",
     linkedin: "m1nddoong990321",
     github: "m1nddoong",
-    instagram: "",
+    instagram: "s_.eonik_e",
   },
   projects: [
     {
@@ -23,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://m1nddong-log.vercel.app/",
+  link: "https://m1nddong.vercel.app/",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
